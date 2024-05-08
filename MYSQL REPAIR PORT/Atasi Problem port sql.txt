@@ -1,0 +1,6 @@
+---------------CARA ATASI MYSQL XAMPP TIDAK BISA RUNNING---------------
+STEP:
+1. klik "windows + R" 
+2. ketik Services.msc
+3. cari "MYSQL80"
+4. Lalu klik kanan dan stop
