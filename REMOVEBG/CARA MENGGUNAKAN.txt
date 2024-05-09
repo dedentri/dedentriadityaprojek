@@ -1,0 +1,3 @@
+JALANKAN DI VISUAL STUDIO CODE:
+klik ctrl + `
+kemudian ketik | streamlit run '.\APK-REMOVEBG.py'
